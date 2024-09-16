@@ -10,7 +10,7 @@ For detailed information on the project, including model architecture and result
 - **train B**: Training images for domain B (oranges)
 - **test A**: Testing images for domain A (apples)
 - **test B**: Testing images for domain B (oranges)  
-![image](https://github.com/user-attachments/assets/14723c69-7e4c-4fd4-8787-5a0d5d951907)
+![image](https://github.com/user-attachments/assets/2b0e191b-1683-4cfd-88e5-fe1e2ae09615)
 
 ## Credits:
 - Created by **Gyuhwan Choi**.
